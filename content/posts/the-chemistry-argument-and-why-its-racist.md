@@ -1,11 +1,11 @@
 ---
-title: The chemistry argument and why it's racist
-date: 2020-06-26
-tags: ['anti-racism']
+title: tk
+date: 2020-03-19
+tags: ['tk']
 published: true
 series: false
 canonical_url: false
-description: "When white Americans talk about group chemistry, they’re in part talking about the comfort and ease that comes from shared history and experiences that are based in whiteness. This is problematic."
+description: "this is the description."
 
 ---
 

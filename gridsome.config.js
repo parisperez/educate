@@ -5,11 +5,11 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Anti-racists of PDX. Listen Up.',
-  siteUrl: 'https://listenport.land.com',
+  siteName: 'Educate Your Sons Campaign',
+  siteUrl: 'https://educatesons.org',
   siteDescription: 'A blog for anti-racists.',
   metadata: {
-    author: 'Juno Rodriguez',
+    author: 'Paris Hyun',
   },
   templates: {
     Post: '/:title',
